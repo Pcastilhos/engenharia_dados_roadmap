@@ -1,6 +1,6 @@
 # engenharia_dados_roadmap
 Este Roadmap visa fornecer uma visão do cenário de assuntos e tecnologias com a finalidade servir como um guia de estudo para iniciantes em engenharia de dados.
-Os dados e conteudos coletados em diversos locais da internet e sendo devidamente creditado.
+Os dados e conteúdos foram coletados em diversos locais da internet e sendo devidamente creditado.
 
 ![engenharia_dados_roadmap](roadmap_eng_dados.jpeg)
 
